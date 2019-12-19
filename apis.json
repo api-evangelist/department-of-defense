@@ -1,0 +1,58 @@
+{
+    "name": "Department of Defense",
+    "description": "Established in 1949, the U.S. Department of Defense is America's oldest and largest government agency. Secretary of Defense Ash Carter currently heads the organization which employs over 1.4 million active duty service members, 1.1 million National Gua...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11184-department-of-defense.jpg",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api",
+        "military"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/department-of-defense\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Department of Defense",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11184-department-of-defense.jpg",
+            "humanURL": "http:\/\/www.defense.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-defense-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-defense-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/u-s-department-of-defense"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.defense.gov\/developer\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DeptofDefense"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.defense.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/United_States_Department_of_Defense"
+        }
+    ]
+}
